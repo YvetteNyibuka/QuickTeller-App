@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://feeds.abplive.com/onecms/images/uploaded-images/2022/04/20/95875e800f4f07def991204b49d41425_original.jpg");
+}
+
+.div2{
+    border: 5px solid black;
+    height: 95%;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: grey;
+}
+
+.div2 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.div2 .text{
+    color: saddlebrown;
+    font-size: 25;
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div2 #button{
+    border: 5px solid black;
+    margin-top: 100px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 35px;
+    font-weight: 600;
+    background-color: white;
+    color: blueviolet;
+}
+
+.div3{
+    border: 5px solid black;
+    height: 95%;
+    width: 50%;
+   
+}
+.div1{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+
